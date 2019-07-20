@@ -4,7 +4,8 @@ function addTemplateItemsToPageMenu() {
 
   // テンプレートメニューの定義ここから ---------- 
   const __templates = [
-    { title: '📄 週報テンプレート', template: '/api/code/pepabo/tanaken/weekly_template.js' }
+    { title: '📄 weelky tanaken', template: '/api/code/pepabo/tanaken/weekly_template.js' },
+    { title: '📄 今週の日直さん', template: '/api/code/pepabo/tanaken/nicchoku_weekly_template.js' }
   ]
   // テンプレートメニューの定義ここまで ----------
   
