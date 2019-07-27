@@ -13,36 +13,50 @@ weekly tanaken ${thisWeekStartDay}~
 [hr.icon]
 [** ${d.add(-1, "d").format("MM/DD(ddd)")}]
 [* 天気] そと= カラダ= こころ=
+[* やること]
+
 [* ログ]
 
 [hr.icon]
 [** ${d.add(-1, "d").format("MM/DD(ddd)")}]
 [* 天気] そと= カラダ= こころ=
+[* やること]
+
 [* ログ]
 
 [hr.icon]
 [** ${d.add(-1, "d").format("MM/DD(ddd)")}]
 [* 天気] そと= カラダ= こころ=
+[* やること]
+
 [* ログ]
 
 [hr.icon]
 [** ${d.add(-1, "d").format("MM/DD(ddd)")}]
 [* 天気] そと= カラダ= こころ=
+[* やること]
+
 [* ログ]
 
 [hr.icon]
 [** ${d.add(-1, "d").format("MM/DD(ddd)")}]
 [* 天気] そと= カラダ= こころ=
+[* やること]
+
 [* ログ]
 
 [hr.icon]
 [** ${d.add(-1, "d").format("MM/DD(ddd)")}]
 [* 天気] そと= カラダ= こころ=
+[* やること]
+
 [* ログ]
 
 [hr.icon]
 [** ${d.add(-1, "d").format("MM/DD(ddd)")}]
 [* 天気] そと= カラダ= こころ=
+[* やること]
+
 [* ログ]
 
 [hr.icon]
